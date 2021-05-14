@@ -1,3 +1,0 @@
-# ibi-git-module
-
-Hello
